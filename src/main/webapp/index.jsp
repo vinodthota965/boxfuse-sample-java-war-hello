@@ -1,7 +1,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>Rajinikanth Cloud DevOps Kitchen</title>
+    <title>Rajinikanth Cloud DevOps Kitchen </title>
     <style>
         body {
             text-align: center;
@@ -55,7 +55,7 @@
     </style>
 </head>
 <body>
-    <h1>Welcome to Rajinikanth Jenkins Cloud- post committed  change  </h1>
+    <h1>Welcome to Rajinikanth Jenkins Cloud- post committed  change from vscode </h1>
     <h2>Menu</h2>
 
     <div id="menu">
