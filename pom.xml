@@ -54,7 +54,7 @@
     <id>nexus</id>
     <url>http://15.206.146.57:8081/repository/sample-snapshots/</url>
       </snapshotRepository>
-      </repository>
+      <repository>
         <id>nexus</id>
          <url>http://15.206.146.57:8081/repository/sample-releases/</url>
          </repository>
